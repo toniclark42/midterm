@@ -409,7 +409,6 @@ main ul {
 .articleGrid div {
   width: 370px;
   height: 549px;
-  border: #979797 solid 1px;
 }
 .articleGrid div img {
   width: 312px;
@@ -720,8 +719,6 @@ body {
 .articleGrid div {
   width: 370px;
   height: 549px;
-  border: #979797 solid 1px;
-  margin-bottom: 30px;
 }
 .articleGrid div img {
   width: 312px;
